@@ -37,10 +37,8 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | 📈 **Finance History** | 금융 역사 타임라인 인터랙티브 | [→ Live](https://pointnline.github.io/finance-history) |
-| 🗺️ **Corporate Finance Map** | 기업금융 구조 시각화 | [→ Live](https://pointnline.github.io/corporate-finance-map) |
-| 🦅 **Eagle Eye** | 시장 시그널 분석 대시보드 | [→ Live](https://pointnline.github.io/eagle-eye) |
+| 🦅 **Eagle Eye** | 시장 시그널 분석 대시보드 | 🔒 Private |
 | 📊 **Stats DeepDive** | 통계 분석 시각화 | [→ Live](https://pointnline.github.io/stats-deepdive) |
-| 🔓 **Decoupling** | 디커플링 분석 | [→ Live](https://pointnline.github.io/decoupling) |
 | 🤖 **BidAI** | AI 공공입찰 낙찰 예측 플랫폼 | 🔒 Private |
 
 ### 🤖 AI & Creative
@@ -48,7 +46,6 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | 🧪 **AI Creative Lab** | 43개 AI 도구 올인원 플랫폼 | [→ Repo](https://github.com/pointnline/ai-creative-lab) |
-| 🎨 **AI 5-Layer Cake** | AI 기술 레이어 시각화 | [→ Live](https://pointnline.github.io/ai-5layer-cake) |
 | 🗑️ **TrashMind** | 생각 쓰레기통 — 던져, 연결은 내가 할게 | [→ Live](https://pointnline.github.io/trashmind) |
 | 🔭 **Titan Tracker** | AI/과학/기술 거인들의 활동 추적 | [→ Live](https://pointnline.github.io/titan-tracker) |
 
@@ -59,12 +56,13 @@
 | 🎮 **Game Gallery** | 인터랙티브 게임 컬렉션 | [→ Live](https://gamegalleryaboutme.web.app) |
 | 🌐 **Brand Universe** | Point & Line 브랜드 유니버스 | [→ Live](https://pointnline.github.io/brand-universe) |
 | 🎨 **Design System** | RainbowMoon 디자인 시스템 | [→ Live](https://pointnline.github.io/design-system) |
+| 🧭 **EdgePoint** | EdgePoint 링크 허브 | [→ Live](https://pointnline.github.io/r-edgepoint/) |
 
 ### 📋 Dashboard & Tools
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 📋 **Project Dashboard** | 프로젝트 관리 대시보드 | [→ Live](https://pointnline.github.io/project-dashboard) |
+| 🎓 **SOGANG AIMBA 7th** | 서강대 AIMBA 7기 미래혁신국 브리핑 | [→ Live](https://pointnline.github.io/SOGANG-AIMBA7th/) |
 | ✍️ **Jaykko Blog** | 개인 블로그 | [→ Live](https://pointnline.github.io/jaykko-blog) |
 
 ---
