@@ -6,6 +6,7 @@
 
 **점은 선택이고, 선은 실행이다. 면은 결과이며, 원은 순환이다.**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaykko-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaykko/)
 [![GitHub](https://img.shields.io/badge/GitHub-pointnline-181717?style=flat-square&logo=github)](https://github.com/pointnline)
 [![Blog](https://img.shields.io/badge/Blog-Jaykko-6C5CE7?style=flat-square&logo=hashnode)](https://pointnline.github.io/jaykko-blog)
 
@@ -15,10 +16,15 @@
 
 ## 👋 About Me
 
-> **Jaykko** · 금융 × AI × 크리에이티브를 잇는 사람
+> **Jaykko (조경준)** · Investment Banker × AI Builder
 
-부동산금융 10년차 | 500+ 딜 경험 | AI MBA 재학 중
-코드로 금융을 자동화하고, AI로 크리에이티브를 증폭합니다.
+**부동산금융 10년 · 500+ 딜** — 브릿지론부터 본PF까지 구조를 설계하고 거래를 닫아온 IB.
+지금은 다올투자증권에서 인수금융·PE로 확장하며, **딜 업무 전체를 AI 에이전트 파이프라인으로 자동화**합니다.
+
+- 🏦 다올투자증권 전략영업2팀 팀장 (부동산PF · 브릿지론 · 인수금융)
+- 🎓 서강대학교 AI MBA 7기 (데이터마이닝 · 최적화 · AI 전략)
+- 🤖 멀티에이전트 오케스트레이션 — Claude Code · Codex · Gemini 3-모델 체계
+- ⚙️ 시장·정책·공시 모니터링 등 20+ 자동화 시스템 24/7 무인 운영
 
 ---
 
